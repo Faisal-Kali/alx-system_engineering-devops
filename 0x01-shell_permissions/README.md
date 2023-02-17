@@ -9,3 +9,4 @@ Adding execute permission to everybody
 Setting permissions
 Setting mode of file
 Mirroring permissions
+Adding permissions to directories
