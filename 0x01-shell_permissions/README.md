@@ -5,3 +5,4 @@ Changing owner of file
 Creating an empty file
 Adding execute permissions
 Adding multiple permissions to files
+Adding execute permission to everybody
