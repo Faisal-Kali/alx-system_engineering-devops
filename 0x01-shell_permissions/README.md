@@ -10,3 +10,4 @@ Setting permissions
 Setting mode of file
 Mirroring permissions
 Adding permissions to directories
+Creating directories with permissions
