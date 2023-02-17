@@ -7,3 +7,4 @@ Adding execute permissions
 Adding multiple permissions to files
 Adding execute permission to everybody
 Setting permissions
+Setting mode of file
