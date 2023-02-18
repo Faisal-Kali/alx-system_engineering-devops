@@ -9,3 +9,4 @@
 8. Saving current state of directory
 9. Duplicating the last line
 10. Script that deletes all regular files with .js extensions that are present in the currently directory and all its subfolders
+11. Counting number of directories and subdirectories
