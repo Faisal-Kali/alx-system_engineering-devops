@@ -19,3 +19,4 @@
 18. Displaying all lines of a file starting with a letter
 19. Replacing characters
 20. Scripts that removes letters from input
+21. Script that reverses its input
