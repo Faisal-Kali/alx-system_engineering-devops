@@ -15,3 +15,4 @@
 14. Displaying lines containing the pattern root from the file
 15. Displaying the number of lines that contain the pattern bin in a file
 16. Display lines containing the pattern root and three lines after them in the file
+17. Display all lines a file that do not contain the pattern bin
