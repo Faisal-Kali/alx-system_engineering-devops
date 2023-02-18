@@ -16,3 +16,4 @@
 15. Displaying the number of lines that contain the pattern bin in a file
 16. Display lines containing the pattern root and three lines after them in the file
 17. Display all lines a file that do not contain the pattern bin
+18. Displaying all lines of a file starting with a letter
