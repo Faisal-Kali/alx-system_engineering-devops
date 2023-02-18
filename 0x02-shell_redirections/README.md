@@ -13,3 +13,4 @@
 12. Script that displays the 10 newest files in the current directory
 13. A script that takes a list of words as input and prints only words that appear exactly once
 14. Displaying lines containing the pattern root from the file
+15. Displaying the number of lines that contain the pattern bin in a file
