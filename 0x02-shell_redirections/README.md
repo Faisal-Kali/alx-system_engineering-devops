@@ -2,3 +2,4 @@
 1. Displaying a confused smiley
 2. Displaying content of file
 3. Displaying content of two files
+Displaying the last 10 lines of a file
