@@ -10,3 +10,4 @@
 9. Duplicating the last line
 10. Script that deletes all regular files with .js extensions that are present in the currently directory and all its subfolders
 11. Counting number of directories and subdirectories
+12. Script that displays the 10 newest files in the current directory
