@@ -20,3 +20,4 @@
 19. Replacing characters
 20. Scripts that removes letters from input
 21. Script that reverses its input
+22. Script that displays all users and their home directories, sorted by users
