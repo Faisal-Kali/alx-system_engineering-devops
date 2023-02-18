@@ -6,3 +6,4 @@ Displaying the last 10 lines of a file
 5. Displaying the last 10 lines
 6. Displaying the third line of a file
 7. Creating and naming a file with special characters
+8. Saving current state of directory
